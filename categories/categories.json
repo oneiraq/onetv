@@ -1,9 +1,8 @@
 {
-  "status": true,
   "data": [
     {
-      "id": "1",
-      "name": "AL WAN SPOORTS ",
+      "id": "3",
+      "name": "Thamanya",
       "img": "",
       "des": "group"
     },
@@ -14,14 +13,14 @@
       "des": "group"
     },
     {
-      "id": "3",
-      "name": "Thamanya",
+      "id": "2",
+      "name": "beIN Entertainment",
       "img": "",
       "des": "group"
     },
     {
-      "id": "2",
-      "name": "beIN Entertainment",
+      "id": "1",
+      "name": "AL WAN SPOORTS ",
       "img": "",
       "des": "group"
     },
