@@ -1,0 +1,101 @@
+{
+  "status": true,
+  "data": [
+    {
+      "id": "0",
+      "name": "beIN SPORTS",
+      "img": "",
+      "des": "group"
+    },
+    {
+      "id": "1",
+      "name": "AL WAN SPOORTS ",
+      "img": "",
+      "des": "group"
+    },
+    {
+      "id": "2",
+      "name": "beIN Entertainment",
+      "img": "",
+      "des": "group"
+    },
+    {
+      "id": "3",
+      "name": "Thamanya",
+      "img": "",
+      "des": "group"
+    },
+    {
+      "id": "4",
+      "name": "Starz Play",
+      "img": "",
+      "des": "group"
+    },
+    {
+      "id": "5",
+      "name": "Shahid SPORTS",
+      "img": "",
+      "des": "group"
+    },
+    {
+      "id": "6",
+      "name": "ARAB SPORTS",
+      "img": "",
+      "des": "group"
+    },
+    {
+      "id": "9",
+      "name": "ENGLISH SPORTS",
+      "img": "",
+      "des": "group"
+    },
+    {
+      "id": "10",
+      "name": "شاهد VIP | Shahid ",
+      "img": "",
+      "des": "group"
+    },
+    {
+      "id": "11",
+      "name": "MBC |أم بي سي ",
+      "img": "",
+      "des": "group"
+    },
+    {
+      "id": "12",
+      "name": "روتانا | Rotana ",
+      "img": "",
+      "des": "group"
+    },
+    {
+      "id": "18",
+      "name": "أطفال | Kids",
+      "img": "",
+      "des": "group"
+    },
+    {
+      "id": "14",
+      "name": "رؤيا |RUYA",
+      "img": "",
+      "des": "group"
+    },
+    {
+      "id": "15",
+      "name": "وثائقيات & جغرفيك ",
+      "img": "",
+      "des": "group"
+    },
+    {
+      "id": "19",
+      "name": "الأخبار | NEWS",
+      "img": "",
+      "des": "group"
+    },
+    {
+      "id": "20",
+      "name": "TEST",
+      "img": "",
+      "des": "group"
+    }
+  ]
+}
