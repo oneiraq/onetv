@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "channel_id": "34",
+    "name": "mbc max",
+    "url": "https://stream.supertv.gg:3026/supertv/enter/stv6/ch6/adaptive.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+    "Referer": "",
+    "otherHeaders": "",
+    "scheme": "",
+    "license": "",
+    "headers": ""
+  }
+]
