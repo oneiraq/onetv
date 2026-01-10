@@ -3,27 +3,27 @@
   "data": [
     {
       "id": "3",
-      "name": "Thamanya",
-      "img": "",
-      "des": "group"
+      "name": "Super TV",
+      "img": "https://oneiraq.github.io/onetv/img/supertv.png",
+      "des": "Earthlink"
     },
     {
       "id": "2",
-      "name": "beIN Entertainment",
-      "img": "",
-      "des": "group"
+      "name": "Veo TV",
+      "img": "https://oneiraq.github.io/onetv/img/veo.png",
+      "des": "Earthlink"
     },
     {
       "id": "0",
-      "name": "beIN SPORTS",
-      "img": "",
-      "des": "group"
+      "name": "Shabakaty TV",
+      "img": "https://oneiraq.github.io/onetv/img/shabakatytv.png",
+      "des": "Earthlink"
     },
     {
       "id": "1",
-      "name": "AL WAN SPOORTS ",
-      "img": "",
-      "des": "group"
+      "name": "MyTV+",
+      "img": "https://oneiraq.github.io/onetv/img/mytv.png",
+      "des": "Earthlink"
     },
     {
       "id": "4",
