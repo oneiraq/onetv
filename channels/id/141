@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "channel_id": "141",
+    "name": "Al Sharqiya HD",
+    "url": "http://stream.mytvplus.net:7032/enter/ch12/adaptive.m3u8",
+    "userAgent": "http://stream.mytvplus.net:7032/enter/ch12/adaptive.m3u8",
+    "Referer": "",
+    "otherHeaders": "",
+    "scheme": "",
+    "license": "",
+    "headers": ""
+  }
+]
