@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "channel_id": "56",
+    "name": "Etejah TV",
+    "url": "http://stream.shabakaty.com:6001/news/ch6/adaptive.m3u8",
+    "userAgent": "Shabakaty",
+    "Referer": "",
+    "otherHeaders": "",
+    "scheme": "",
+    "license": "",
+    "headers": ""
+  }
+]
