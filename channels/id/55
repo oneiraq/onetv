@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "channel_id": "55",
+    "name": "On time sport 2",
+    "url": "http://stream.shabakaty.com:6015/sport/ch14/adaptive.m3u8",
+    "userAgent": "Shabakaty",
+    "Referer": "",
+    "otherHeaders": "",
+    "scheme": "",
+    "license": "",
+    "headers": ""
+  }
+]
