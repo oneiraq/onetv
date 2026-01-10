@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "channel_id": "153",
+    "name": "Sport 4",
+    "url": "https://stream.veo.buzz:6075/sport/ch4/adaptive.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+    "Referer": "",
+    "otherHeaders": "",
+    "scheme": "",
+    "license": "",
+    "headers": ""
+  }
+]
