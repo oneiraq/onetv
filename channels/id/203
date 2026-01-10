@@ -10,5 +10,17 @@
     "scheme": "",
     "license": "",
     "headers": ""
+  },
+  {
+    "id": "2",
+    "channel_id": "203",
+    "name": "صوت العقيلة",
+    "url": "https://stream.veo.buzz:6050/islamic/ch7/adaptive.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+    "Referer": "",
+    "otherHeaders": "",
+    "scheme": "",
+    "license": "",
+    "headers": ""
   }
 ]
