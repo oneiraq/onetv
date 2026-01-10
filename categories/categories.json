@@ -2,15 +2,15 @@
   "status": true,
   "data": [
     {
-      "id": "3",
-      "name": "Super TV",
-      "img": "https://oneiraq.github.io/onetv/img/supertv.png",
+      "id": "2",
+      "name": "Veo",
+      "img": "https://oneiraq.github.io/onetv/img/veo.png",
       "des": "Earthlink"
     },
     {
-      "id": "2",
-      "name": "Veo TV",
-      "img": "https://oneiraq.github.io/onetv/img/veo.png",
+      "id": "3",
+      "name": "Super TV",
+      "img": "https://oneiraq.github.io/onetv/img/supertv.png",
       "des": "Earthlink"
     },
     {
