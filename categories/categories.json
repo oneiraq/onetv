@@ -2,6 +2,12 @@
   "status": true,
   "data": [
     {
+      "id": "4",
+      "name": "Starz Play",
+      "img": "",
+      "des": "group"
+    },
+    {
       "id": "2",
       "name": "Veo TV",
       "img": "https://oneiraq.github.io/onetv/img/veo.png",
@@ -24,12 +30,6 @@
       "name": "MyTV+",
       "img": "https://oneiraq.github.io/onetv/img/mytv.png",
       "des": "Earthlink"
-    },
-    {
-      "id": "4",
-      "name": "Starz Play",
-      "img": "",
-      "des": "group"
     },
     {
       "id": "5",
