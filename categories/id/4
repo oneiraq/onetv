@@ -4,5 +4,11 @@
     "name": "Bein Sport 1",
     "img": "https://oneiraq.github.io/onetv/img/bn/s1/1.png",
     "io": "1"
+  },
+  {
+    "id": "251",
+    "name": "Bein Sport 2",
+    "img": "https://oneiraq.github.io/onetv/img/bn/s1/2.png",
+    "io": ""
   }
 ]
