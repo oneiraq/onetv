@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "channel_id": "",
+    "name": "SD",
+    "url": "http://tornado-pro.com:80/live/alhomaidirashid@gmail.com/HOrashid1/68.ts",
+    "userAgent": "",
+    "Referer": "",
+    "otherHeaders": "",
+    "scheme": "",
+    "license": "",
+    "headers": ""
+  },
+  {
+    "id": "2",
+    "channel_id": "",
+    "name": "HD",
+    "url": "http://tornado-pro.com:80/live/alhomaidirashid@gmail.com/HOrashid1/58.ts",
+    "userAgent": "",
+    "Referer": "",
+    "otherHeaders": "",
+    "scheme": "",
+    "license": "",
+    "headers": ""
+  },
+  {
+    "id": "3",
+    "channel_id": "",
+    "name": "FHD",
+    "url": "http://tornado-pro.com:80/live/alhomaidirashid@gmail.com/HOrashid1/48.ts",
+    "userAgent": "",
+    "Referer": "",
+    "otherHeaders": "",
+    "scheme": "",
+    "license": "",
+    "headers": ""
+  },
+  {
+    "id": "4",
+    "channel_id": "",
+    "name": "4K",
+    "url": "http://tornado-pro.com:80/live/alhomaidirashid@gmail.com/HOrashid1/37.ts",
+    "userAgent": "",
+    "Referer": "",
+    "otherHeaders": "",
+    "scheme": "",
+    "license": "",
+    "headers": ""
+  }
+]
